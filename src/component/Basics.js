@@ -26,13 +26,15 @@ export const Basics = () => {
 
   return (
     <>
-      <div>Here is a demo of ProseMirror</div>
+      <div style={{ marginTop: "20px", marginLeft: "30px" }}>
+        Here is a demo of ProseMirror
+      </div>
       <div
         style={{
           marginTop: "20px",
-          position: "relative",
-          left: "30px",
+          marginLeft: "30px",
           width: "300px",
+          border: "1px solid black",
         }}
       >
         <div ref={EditorRef}></div>
@@ -49,7 +51,8 @@ export const Basics = () => {
           <strong>strong text</strong>,{" "}
           <a href="http://marijnhaverbeke.nl/blog">links</a>,{" "}
           <code>code font</code>, and{" "}
-          <img src="@/public/img/smiley.png" alt="smile" /> images.
+          <img src={process.env.PUBLIC_URL + "/img/smiley.png"} alt="smilely" />{" "}
+          images.
         </p>
 
         <p>
