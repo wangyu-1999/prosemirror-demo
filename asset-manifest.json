@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prose_mirror_demo/static/css/main.69d6d96f.css",
-    "main.js": "/prose_mirror_demo/static/js/main.c91bf5ce.js",
-    "static/js/973.92aa4043.chunk.js": "/prose_mirror_demo/static/js/973.92aa4043.chunk.js",
-    "index.html": "/prose_mirror_demo/index.html",
-    "main.69d6d96f.css.map": "/prose_mirror_demo/static/css/main.69d6d96f.css.map",
-    "main.c91bf5ce.js.map": "/prose_mirror_demo/static/js/main.c91bf5ce.js.map",
-    "973.92aa4043.chunk.js.map": "/prose_mirror_demo/static/js/973.92aa4043.chunk.js.map"
+    "main.css": "/prosemirror_demo/static/css/main.69d6d96f.css",
+    "main.js": "/prosemirror_demo/static/js/main.0dd7c3e6.js",
+    "static/js/973.92aa4043.chunk.js": "/prosemirror_demo/static/js/973.92aa4043.chunk.js",
+    "index.html": "/prosemirror_demo/index.html",
+    "main.69d6d96f.css.map": "/prosemirror_demo/static/css/main.69d6d96f.css.map",
+    "main.0dd7c3e6.js.map": "/prosemirror_demo/static/js/main.0dd7c3e6.js.map",
+    "973.92aa4043.chunk.js.map": "/prosemirror_demo/static/js/973.92aa4043.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69d6d96f.css",
-    "static/js/main.c91bf5ce.js"
+    "static/js/main.0dd7c3e6.js"
   ]
 }
