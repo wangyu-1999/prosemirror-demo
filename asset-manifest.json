@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/prosemirror_demo/static/css/main.69d6d96f.css",
-    "main.js": "/prosemirror_demo/static/js/main.0dd7c3e6.js",
-    "static/js/973.92aa4043.chunk.js": "/prosemirror_demo/static/js/973.92aa4043.chunk.js",
-    "index.html": "/prosemirror_demo/index.html",
-    "main.69d6d96f.css.map": "/prosemirror_demo/static/css/main.69d6d96f.css.map",
-    "main.0dd7c3e6.js.map": "/prosemirror_demo/static/js/main.0dd7c3e6.js.map",
-    "973.92aa4043.chunk.js.map": "/prosemirror_demo/static/js/973.92aa4043.chunk.js.map"
+    "main.css": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/static/css/main.69d6d96f.css",
+    "main.js": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/static/js/main.f2c7789d.js",
+    "static/js/973.92aa4043.chunk.js": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/static/js/973.92aa4043.chunk.js",
+    "index.html": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/index.html",
+    "main.69d6d96f.css.map": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/static/css/main.69d6d96f.css.map",
+    "main.f2c7789d.js.map": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/static/js/main.f2c7789d.js.map",
+    "973.92aa4043.chunk.js.map": "https://github.com/wangyu-1999/prosemirror-demo/blob/gh-pages/static/js/973.92aa4043.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69d6d96f.css",
-    "static/js/main.0dd7c3e6.js"
+    "static/js/main.f2c7789d.js"
   ]
 }
