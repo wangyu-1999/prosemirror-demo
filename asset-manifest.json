@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "../project/prosemirror_demo/static/css/main.69d6d96f.css",
-    "main.js": "../project/prosemirror_demo/static/js/main.bba4990c.js",
-    "static/js/973.92aa4043.chunk.js": "../project/prosemirror_demo/static/js/973.92aa4043.chunk.js",
-    "index.html": "../project/prosemirror_demo/index.html",
-    "main.69d6d96f.css.map": "../project/prosemirror_demo/static/css/main.69d6d96f.css.map",
-    "main.bba4990c.js.map": "../project/prosemirror_demo/static/js/main.bba4990c.js.map",
-    "973.92aa4043.chunk.js.map": "../project/prosemirror_demo/static/js/973.92aa4043.chunk.js.map"
+    "main.css": "../project/prosemirror-demo/static/css/main.69d6d96f.css",
+    "main.js": "../project/prosemirror-demo/static/js/main.0cbe7d11.js",
+    "static/js/973.92aa4043.chunk.js": "../project/prosemirror-demo/static/js/973.92aa4043.chunk.js",
+    "index.html": "../project/prosemirror-demo/index.html",
+    "main.69d6d96f.css.map": "../project/prosemirror-demo/static/css/main.69d6d96f.css.map",
+    "main.0cbe7d11.js.map": "../project/prosemirror-demo/static/js/main.0cbe7d11.js.map",
+    "973.92aa4043.chunk.js.map": "../project/prosemirror-demo/static/js/973.92aa4043.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69d6d96f.css",
-    "static/js/main.bba4990c.js"
+    "static/js/main.0cbe7d11.js"
   ]
 }
